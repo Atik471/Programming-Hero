@@ -1,16 +1,13 @@
 Tag attributes:
 button, img, input, select, form, footer
-head, html, title, body
 link, meta
 
 Global attributes
 img height, width
-meta tag values in head
 favicon
 
 vs code shortcuts(multi select)
 vs code settings/preference
-unsplash
 
 
 
