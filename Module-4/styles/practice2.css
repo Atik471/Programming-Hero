@@ -1,0 +1,21 @@
+*{
+    color: whitesmoke;
+}
+
+body {
+    background-color: black;
+}
+
+nav{
+    background-color: rgb(25, 23, 23);
+}
+
+nav > ul > li {
+    display: inline;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+label{
+    display: block;
+}
