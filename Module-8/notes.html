@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Module-8 Notes</title>
+  </head>
+  <body>
+    <h1>Media query:</h1>
+    <ul>
+      <li>desktop min-width 993px</li>
+      <li>tablet min-width 768px, max-width 992px</li>
+      <li>smartphone max-width 767px</li>
+    </ul>
+    <br />
+    <h3>Layout types explore</h3>
+    <br />
+    <p>em: relative to parent font size</p>
+    <p>rem: relative to root's font size</p>
+    <p>can i apply vh, vw for font size?</p>
+    <p>vmin, vmax</p>
+    <p>
+      if you have some contents for left and some for right put them in only two
+      div tags and use justify content space between
+    </p>
+
+    <h1>css styles</h1>
+    <ul>
+      <li>flex-wrap</li>
+      <li>if flex-direction row, column takes full space, if its column then row takes full space</li>
+      <li>grid-templay-columns: 200px 200px 200px</li>
+      <li>default width of block content?</li>
+      <li>grid-templay-columns: repeat(2, 200px) 200px</li>
+      <li>grid-templay-columns: repeat(3, 1fr)</li>
+      <li>grid-templay-columns: repeat(2,1fr) 2fr</li>
+      <li>grid-templay-columns: 100px auto 100px</li>
+      <li>grid-templay-columns: repeat(3, 1fr)
+          justify-content: ....;
+      </li>
+      <li>grid-templay-rows</li>
+      <li>grid-templay</li>
+      <li>column-gap</li>
+      <li>row-gap</li>
+      <li>grid-gap</li>
+      <li>justify-content, justify-items</li>
+      <li>align-items, align-content</li>
+      <li>place-items</li>
+      <li>place-content</li>
+      <li>justify-content and text-align difference?</li>
+      <li>default size of img tag?</li>
+      <li>breakpoints(use bootstrap)</li>
+      <li>@media screen and (max-width: 576px) - write them at the end of the css document</li>
+      <li></li>
+    </ul>
+
+    <h1>html notes</h1>
+    <ul>
+        <li>input type="text" required</li>
+        <li>a[attr] as emmet can be used</li>
+        <li>emmet syntaxes</li>
+        <li>how to give extra space in html</li>
+    </ul>
+
+    <h2>try this</h2>
+    <p>
+        display: grid; <br>
+        grid-temlate-columns: repeat(3,1fr); <br>
+        this is inside parent container <br> <br>
+
+        img width:100%;
+
+        now if i give img 100% width the fr units works according to vw 
+        but if i dont give img takes size according to its own pixel and fr follows the img size <br>
+        so there must be a default value of fr and it can be overwritten
+    </p>
+
+    <h3>dev tools in chrome. device toolbar can show your page according to different devices</h3>
+
+    <h2>responsive rules</h2>
+    <ol>
+        <li>use meta tag viewport</li>
+        <li>use css relative units(font size eo if needed)</li>
+        <li>use max-width and margin left right auto in body style</li>
+        <li>image fluid</li>
+        <li>media query with flex direction column if 2 cols exists</li>
+        <li>if multi cols use grid in media query</li>
+        <li>menu responsive with js</li>
+    </ol>
+  </body>
+</html>
