@@ -1,0 +1,189 @@
+Module -1: Welcome Video
+
+Module 0: Orientation. How To Get Ready For This Course
+
+Module 1: Learn And Explore HTML
+
+Module 2: Learn And Explore CSS
+
+Module 3: Git, Source Control, GitHub And Hosting
+
+Module 4: More About HTML
+
+Module 5: Build A Beautiful Portfolio Website
+
+Module 6: Build Your Flower Shop Website
+
+Module 6.5: [Bonus] Pseudo Class, Elements, Position
+
+Module 7: Responsive Website Layout
+
+Module 8: More Responsive Layout And Responsive Portfolio
+
+Module 9: HTML CSS Only Landing Page - G3 Architects
+
+Module 10: Optimize Images, Icon And More CSS
+
+Module 11: Responsive Website Assignment
+
+Module 11.5: [Bonus] UI UX, Future Strategy About Html, Css
+
+Module 12: Introduction To Tailwind
+
+Module 13: Biker Zone With Daisy UI
+
+Module 14: Tea Landing Page With DaisyUI
+
+Module 15: Responsive Landing Page With Framework Assignment
+
+Module 15_5: HTML, CSS, Framework Bonus
+
+Module 16: Introduction To JavaScript
+
+Module 17: Fundamental Concepts Array And Conditionals
+
+Module 18: Loop And Practice Problems
+
+Module 19: Core Concepts, Functions And Objects
+
+Module 20: Apply JavaScript Concepts
+
+Module 21: JavaScript Simple Coding Problems
+
+Module 22: More JS Coding Problems
+
+Module 23: Assignment
+
+Module 23.5: Basic JavaScript Bonus Module
+
+Module 24: Tour Of DOM (Document Object Model)
+
+Module 25: Event, AddEventListener, Event Bubble
+
+Module 26: Simple Interactive Bank Website ( Baap Er Bank )
+
+Module 27: Bank Calculation Using Functions(Advanced)
+
+Module 28: DOM Manipulation With Geometry Genius
+
+Module 29: Build Summer Sale Using DOM Manipulation
+
+Module 29.5: Integrate Javascript Bonus Content
+
+Module 30: JS Recap And Basic Es6, Es5
+
+Module 31: (Advanced) More ES6
+
+Module 32: Understand Common JavaScript Concepts
+
+Module 33: API, JSON, Data Load, Dynamic Website
+
+Module 34: API Recap With Phone Hunter
+
+Module 35: More About JavaScript
+
+Module 36: ES6 And API Related Assignment
+
+Module 36.5: Browser Storage
+
+Module 36.6: [Optional] Browser & Debugging
+
+Module 36.7: [Optional] Introduction To Devtool
+
+Module 37: JavaScript You Need To Know For React
+
+Module 38: React Core Concept (Part 1)
+
+Module 39: React Core Concept (Part 2)
+
+Module 40: Simple React Rest Countries
+
+Module 41: Modules And Data Storage Integration
+
+Module 42: Simple React SPA With Knowledge Cafe
+
+Module 43: React SPA Assignment
+
+Module 43.5: Simple React Bonus
+
+Module 44: Tailwind CSS, Axios, Rechart, Awesome Components
+
+Module 45: React Router Concept
+
+Module 46: React Core Concept (Part 3)
+
+Module 47: CareerHub With Router
+
+Module 48: Assignment 8
+
+Module 48.5: Router Bonus
+
+Module 49: Simple React Firebase Authentication
+
+Module 50: Email Password Authentication, Login Form
+
+Module 51: React Auth Integration And Private Route
+
+Module 52: Build Dragon News Layout
+
+Module 52.5: Authentication With Dragon News
+
+Module 53: React Auth Assignment
+
+Module 53.5: NodeJS Bonus Content
+
+Module 54: Getting Started With Node, Express And Api
+
+Module 55: Know More About Node Js, Express Js, Mongodb And CRUD Operation
+
+Module 56: CRUD With Espresso Emporium Using MongoDB
+
+Module 56.5: Authentication With Espresso Emporium, Deploy & Practice Task
+
+Module 57: Assignment 10
+
+Module 57.5: Bonus Module
+
+Module 58: CRUD Recap With Genius Car
+
+Module 59: Genius Car Node Mongo CRUD Recap
+
+Module 60: Introduction To JWT And Axios Interceptor
+
+Module 60.5: (Important) How To Create Unique Projects And Unique Profile
+
+Module 61: Recap Jwt And Interceptor With Genius Car
+
+Module 62: Pagination And Load Data By Filter
+
+Module 63: CRUD With JWT Assignment
+
+Module 63.5: Indexing In MongoDB
+
+Module 64: Final Project Part-1
+
+Module 65: Final Project Part-2
+
+Module 66: Final Project Part-3
+
+Module 67: Final Project Part-4
+
+Module 68: Final Project Part-5
+
+Module 69: Final Project Part-6
+
+Module 70: Final Project Part-7
+
+Module 71: Final Project Part-8
+
+Module 72: The Final Effort
+
+Module 72.5: Email Sending(Bonus)
+
+Module 73: Fundamentals Of Next.Js
+
+Module 74: Next Level Data Fetching In Next.Js
+
+Module 75: Build A News Portal Website Using Next.Js
+
+Module 76: Interview Preparation And Get Ready To Be Hired

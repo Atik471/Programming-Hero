@@ -1,0 +1,11 @@
+1. Explore many github accounts
+2. hot font, color picker or something extension
+3. Exclude unnecessary fonts while importing in css
+4. Box-sizing? in css
+is max-width better than 100%
+you can give div height width, even if it doesnt have any content
+if a block element has 30% width, will the next element who also have 30% width come to the same line - no
+margin: 0px auto? or 0 auto
+if figma file's px is too high than my screen how to convert them to percent or relative stuff
+grid-area
+grid-template-areas
